@@ -26,7 +26,7 @@ COLORS = {
 }
 
 # ----- Output Directories -----
-EVAL_DIR = "evaluation"
+EVAL_DIR = "evaluations"
 PLOTS_DIR = os.path.join(EVAL_DIR, "plots")
 os.makedirs(EVAL_DIR, exist_ok=True)
 os.makedirs(PLOTS_DIR, exist_ok=True)
