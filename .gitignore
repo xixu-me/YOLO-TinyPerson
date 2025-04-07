@@ -155,8 +155,6 @@ cython_debug/
 # Some derectories to ignore
 /dataset.7z
 /dataset
-/evaluations
 /results
 /runs
-/visualizations
 /weights
