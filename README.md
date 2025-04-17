@@ -21,7 +21,7 @@ A comprehensive framework for training and evaluating YOLO models on the TinyPer
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/YOLO-TinyPerson.git
+   git clone https://github.com/xixu-me/YOLO-TinyPerson.git
    cd YOLO-TinyPerson
    ```
 
